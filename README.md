@@ -1,4 +1,5 @@
 Assignment Explanations
+
 Task 3: API Endpoints and Behavior
 Calling /predict without the location parameter:
 
